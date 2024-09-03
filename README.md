@@ -1,2 +1,2 @@
-<p>dir -> mkdir "name" </p>
+<p style="color:red;">dir -> mkdir "name" </p>
 <br/>
