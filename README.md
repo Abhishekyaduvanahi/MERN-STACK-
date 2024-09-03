@@ -9,3 +9,14 @@
 * <https://expressjs.com/en/guide/routing.html>
  Use the express.Router class to create modular, mountable route handlers. A Router instance is a complete middleware and routing system; for this reason, it is often referred to as a “mini-app”.
 </span>
+
+<h1>Reached </h1>
+<span> 
+1. created a server using express
+2. created and oraganized router
+3. Managed application logic using controller 
+4.Postman got user data response
+5.Node.js + mongoose Connection
+6.Created user schema and model
+
+</span>
