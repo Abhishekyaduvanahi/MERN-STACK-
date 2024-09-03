@@ -4,7 +4,7 @@ const express =require('express'
 const app = express();
 const router = require('./authRoter')
 
-// to user router 
+// to user router app.use("/api/auth", router);
 app.use("/",router);
 
 // app.get("/",(req,res)=>{
