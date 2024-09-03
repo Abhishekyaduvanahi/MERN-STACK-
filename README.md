@@ -1,1 +1,1 @@
-<h1> dir -> mkdir "..."</h1>
+<p style ="align:center"> dir -> mkdir "..."<p>
