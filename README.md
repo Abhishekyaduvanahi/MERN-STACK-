@@ -12,11 +12,11 @@
 
 <h1>Reached </h1>
 <span> 
-1. created a server using express
-2. created and oraganized router
-3. Managed application logic using controller 
-4.Postman got user data response
-5.Node.js + mongoose Connection
-6.Created user schema and model
+1. created a server using express </br>
+2. created and oraganized router </br>
+3. Managed application logic using controller </br>
+4.Postman got user data response </br>
+5.Node.js + mongoose Connection </br>
+6.Created user schema and model </br>
 
 </span>
