@@ -18,5 +18,9 @@
 4.Postman got user data response </br>
 5.Node.js + mongoose Connection </br>
 6.Created user schema and model </br>
-
+7.Stored Registered User Data in an Online Database </br>
+8.Secured user Password using Bcrypt.js </br>
+9.Secured User Authentication with JSON webtoken </br>
+10.Build a complete user Login Route with Functionality in our MERN App </br>
+11.Build a Custom Compare Password Check Function
 </span>
