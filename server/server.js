@@ -2,7 +2,10 @@ const express =require('express'
 );
 
 const app = express();
-const router = require('./authRoter')
+const router = require('./Router/authRoter')
+
+app.use(express.json());
+const connectDB=require('./utils/db');
 
 // to user router app.use("/api/auth", router);
 app.use("/",router);
@@ -16,7 +19,9 @@ app.use("/",router);
 // })
 
 const PORT =5000;
+connectDB().then(()=>{
+  app.listen(PORT ,()=>{
+    console.log(`Server is running at this ${PORT}`);
+   });
+});
 
-app.listen(PORT ,()=>{
- console.log(`Server is running at this ${PORT}`);
-})
